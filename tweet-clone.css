@@ -1,0 +1,111 @@
+body {
+  background: rgb(244, 248, 249);
+  font-family: Helvetica;
+  font-size: 25px;
+}
+
+.something{
+  width: 1042px;
+  height: 450px;
+}
+
+div {
+  border: 2px;
+
+  background-color: white;
+}
+.tweet {
+
+  background: rgb(255, 255, 255);
+  border: rgb(255, 232, 237);
+  user-name: rgb(0, 0, 0);
+  user-account: rgb(104, 109, 129);
+  float: none;
+
+
+}
+
+.bigcontainer {
+  width: 1042px;
+  height: 400px;
+  padding-top: 25px;
+  padding-left: 25px;
+
+}
+.account-logo {
+  float: left;
+  padding-right: 5px;
+
+}
+.favorite {
+  float: left;
+  padding-left: 75px;
+  color: grey;
+}
+.profile-picture {
+  float: left;
+  padding-right: 20px;
+}
+.reply {
+  float: left;
+}
+.retweet {
+  float: left;
+  padding-left: 75px;
+  color: grey;
+}
+.twitterlogo {
+  float: left;
+  padding-right: 15px;
+}
+.twitter-logo {
+  float: left;
+}
+.validated-account {
+  float: none;
+}
+.thetext {
+  float: bottom;
+}
+.username {
+  font-weight: bold;
+}
+.atjack {
+
+  color: grey;
+}
+.responses {
+  width: 1000px;
+  height: auto;
+  padding-top: 20px;
+}
+.twitterbutton {
+  border: 2px solid;
+  border-color: rgb(85,172,238);
+  border-radius: 10px;
+  padding-top: 10px;
+  padding-bottom: 3px;
+  padding-left: 25px;
+  padding-right: 20px;
+  margin-top: 0px;
+  margin-right: 25px;
+  background-color: white;
+  float: right;
+  width: auto;
+  color: rgb(85,172,238);
+}
+.twittertext {
+  float: left;
+  text-align: center;
+  font-size: 25px;
+}
+.timestamp {
+  color: grey;
+  padding-top: 25px;
+  padding-left: 0px;
+
+}
+p {
+  display: inline;
+
+}
